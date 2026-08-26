@@ -1,0 +1,17 @@
+name: Sync LeetCode History
+
+on:
+  workflow_dispatch: # Allows you to trigger the backfill manually
+  schedule:
+    - cron: "0 8 * * 6" # Automatically checks for new solutions every Saturday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run LeetCode Sync
+        uses: joshcai/leetcode-sync@v1.5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
