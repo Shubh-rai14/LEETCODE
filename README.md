@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubh-rai14/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubh-rai14/LEETCODE/tree/master/0035-search-insert-position) |
 ## Two Pointers
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubh-rai14/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubh-rai14/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
