@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubh-rai14/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubh-rai14/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubh-rai14/LEETCODE/tree/master/0035-search-insert-position) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubh-rai14/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shubh-rai14/LEETCODE/tree/master/0035-search-insert-position) |
 ## String
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubh-rai14/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
