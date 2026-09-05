@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubh-rai14/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubh-rai14/LEETCODE/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubh-rai14/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubh-rai14/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
