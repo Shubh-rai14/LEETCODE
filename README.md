@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shubh-rai14/LEETCODE/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/Shubh-rai14/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubh-rai14/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubh-rai14/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shubh-rai14/LEETCODE/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
