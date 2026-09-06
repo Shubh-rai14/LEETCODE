@@ -8,8 +8,6 @@ class Solution {
 		int i = 0;
 		int j = 0;
 		int k = 0;
-
-		// Merge step of Merge Sort
 		while (i < n && j < m) {
 			if (nums1[i] <= nums2[j]) {
 				arr[k++] = nums1[i++];
