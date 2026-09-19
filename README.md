@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubh-rai14/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shubh-rai14/LEETCODE/tree/master/0058-length-of-last-word) |
 ## Linked List
 |  |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shubh-rai14/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubh-rai14/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubh-rai14/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
