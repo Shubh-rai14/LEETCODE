@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubh-rai14/LEETCODE/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Shubh-rai14/LEETCODE/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,9 +81,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubh-rai14/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Shubh-rai14/LEETCODE/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shubh-rai14/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shubh-rai14/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
