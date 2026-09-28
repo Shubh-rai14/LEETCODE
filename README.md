@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Shubh-rai14/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shubh-rai14/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubh-rai14/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Shubh-rai14/LEETCODE/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
