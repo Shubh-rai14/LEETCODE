@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shubh-rai14/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2396-strictly-palindromic-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/Shubh-rai14/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubh-rai14/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubh-rai14/LEETCODE/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
