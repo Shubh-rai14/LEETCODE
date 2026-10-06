@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Shubh-rai14/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shubh-rai14/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shubh-rai14/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shubh-rai14/LEETCODE/tree/master/0189-rotate-array) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shubh-rai14/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
