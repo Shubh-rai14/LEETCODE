@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shubh-rai14/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shubh-rai14/LEETCODE/tree/master/0058-length-of-last-word) |
 ## Linked List
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubh-rai14/LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubh-rai14/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Shubh-rai14/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shubh-rai14/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shubh-rai14/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shubh-rai14/LEETCODE/tree/master/0070-climbing-stairs) |
